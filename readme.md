@@ -74,6 +74,20 @@ python <nombre_del_archivo>.py
 ```
 
 ## Lineas de trabajo futuro
+#### Modulo de Prediccion
+- Uso de modelos de lenguaje
+-- Usarlo para predecir movimientos alcistas / bajistas y crear limites automaticos con avisos. 
+- Live Prediction con PolyMarket (https://www.youtube.com/watch?v=6ny-ZEdQMCc)
+
+
+#### Modulo de Automatizacion / Avisos
+- Añadir backtesting 
+- Añadir automatizaciones llegado a cierto umbral 
+
+#### Otros 
+- Convert to WebApp (https://www.youtube.com/watch?v=OFnOEIyqSRg&list=PLvzuUVysUFOuoRna8KhschkVVUo2E2g6G)
+- Usar QUantComm framework (https://www.youtube.com/watch?v=joXDV5eqOoY&t=2231s)
+- 
 
 
 ### Configuración
