@@ -75,6 +75,10 @@ python <nombre_del_archivo>.py
 
 ## Lineas de trabajo futuro
 #### Modulo de Prediccion
+- Uso de Modelos de Prediccion de Series Temporales
+  - Usar Temporal Relational Ranking for Stock Prediction https://arxiv.org/abs/1809.09441 Git: https://github.com/fulifeng/Temporal_Relational_Stock_Ranking
+  - https://builtin.com/data-science/time-series-forecasting-python
+  - https://www.quantconnect.com/research/15263/forecasting-stock-prices-using-a-temporal-cnn-model/
 - Uso de modelos de lenguaje
 -- Usarlo para predecir movimientos alcistas / bajistas y crear limites automaticos con avisos. 
 - Live Prediction con PolyMarket (https://www.youtube.com/watch?v=6ny-ZEdQMCc)
